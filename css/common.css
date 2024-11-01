@@ -2,7 +2,7 @@
 
 @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
 
-*{ padding: 0;margin: 0; font-size: 10px; letter-spacing: -0.5px; font-family: "Pretendard", sans-serif;}
+*{ padding: 0;margin: 0; font-size: 10px; letter-spacing: -0.5px; font-family: "Pretendard", sans-serif; color: #171719;}
 ul{list-style: none;}
 a{ color: #000;text-decoration: none;}
 img{ width: 100%;vertical-align: middle; object-fit: cover;}
@@ -12,4 +12,5 @@ img{ width: 100%;vertical-align: middle; object-fit: cover;}
 }
 .fl_l{display: flex;}
 strong{font-size: 1.6rem;}
-p{font-size: 1.3em; color: #37383c9c;}
+main p{font-size: 1.3em; color: #37383c9c;}
+button{background: none; border: 0;}
